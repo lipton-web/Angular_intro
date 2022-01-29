@@ -1,3 +1,22 @@
+Angular cli 설치   
+`npm install -g @angular/cli`
+
+Angular cli 명령어 종류 확인  
+`ng help [options]`
+
+Angular 버젼확인  
+`ng --version`
+
+프로젝트 생성  
+`ng new 프로젝트이름`
+
+프로젝트 실행  
+`ng serve`
+
+
+
+
+
 # FirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
